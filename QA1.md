@@ -4,3 +4,4 @@ Application Programming Interface
 GET
 ### 3. Какие HTTP-статус-коды обычно указывают на успешный запрос в ответе от API?
 200 и 201
+### 4. Что такое JSON (JavaScript Object Notation) в контексте API?
