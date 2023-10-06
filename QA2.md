@@ -12,3 +12,4 @@ Burndown Chart
 Sprint Review
 ### 7. Какой максимальный размер команды Scrum, рекомендуемый официальным Scrum Guide?
 10
+### 8. Что делает Scrum Master в команде Scrum?
