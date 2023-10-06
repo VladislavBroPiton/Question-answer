@@ -26,3 +26,4 @@ Velocity
 Sprint Planning
 ### 14. Кто имеет право изменять элементы в Product Backlog?
 Любой член команды Scrum
+### 15. Что делает команда Scrum в ходе Sprint Retrospective?
