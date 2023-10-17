@@ -13,3 +13,4 @@ DROP TABLE employees;
 ### 7. Какой тип JOIN возвращает только совпадающие строки из обеих таблиц?
 INNER JOIN
 ### 8. Какой SQL-запрос обновит значение "age" до 30 в таблице "persons", где "name" равно 'Dima'?
+UPDATE persons SET age=30 WHERE name='Dima'
