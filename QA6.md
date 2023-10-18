@@ -20,3 +20,4 @@ CREATE INDEX
 TIMESTAMP
 ### 11. Что делает следующий запрос:   INSERT INTO customers (id, name) VALUES (1, 'Ann');?
 Добавляет новую строку с id 1 и name 'Ann' в таблицу customers
+### 12. Какой оператор используется для сортировки результатов запроса?
