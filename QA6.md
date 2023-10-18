@@ -19,3 +19,4 @@ CREATE INDEX
 ### 10. Какой тип данных в SQL используется для хранения даты и времени?
 TIMESTAMP
 ### 11. Что делает следующий запрос:   INSERT INTO customers (id, name) VALUES (1, 'Ann');?
+Добавляет новую строку с id 1 и name 'Ann' в таблицу customers
