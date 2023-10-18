@@ -14,3 +14,4 @@ DROP TABLE employees;
 INNER JOIN
 ### 8. Какой SQL-запрос обновит значение "age" до 30 в таблице "persons", где "name" равно 'Dima'?
 UPDATE persons SET age=30 WHERE name='Dima'
+### 9. Какая команда используется для создания индекса?
