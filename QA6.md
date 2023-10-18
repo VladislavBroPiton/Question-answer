@@ -18,3 +18,4 @@ UPDATE persons SET age=30 WHERE name='Dima'
 CREATE INDEX
 ### 10. Какой тип данных в SQL используется для хранения даты и времени?
 TIMESTAMP
+### 11. Что делает следующий запрос:   INSERT INTO customers (id, name) VALUES (1, 'Ann');?
