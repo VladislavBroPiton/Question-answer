@@ -16,3 +16,4 @@ INNER JOIN
 UPDATE persons SET age=30 WHERE name='Dima'
 ### 9. Какая команда используется для создания индекса?
 CREATE INDEX
+### 10. Какой тип данных в SQL используется для хранения даты и времени?
