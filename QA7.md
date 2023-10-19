@@ -4,3 +4,4 @@
 Virtual User Generator (VUGen), Controller, Load Generator, Analysis.
 ### 3. Что такое Virtual User (VUser) в терминологии LoadRunner?
 Пользователь, созданный для имитации реального пользователя при нагрузочном тестировании.
+### 4. Какие типы протоколов поддерживает LoadRunner?
