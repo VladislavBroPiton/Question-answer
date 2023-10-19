@@ -6,3 +6,4 @@ Virtual User Generator (VUGen), Controller, Load Generator, Analysis.
 Пользователь, созданный для имитации реального пользователя при нагрузочном тестировании.
 ### 4. Какие типы протоколов поддерживает LoadRunner?
 HTTP, FTP, Citrix, SAP, Oracle
+### 5. Какие параметры нагрузки можно устанавливать в LoadRunner?
