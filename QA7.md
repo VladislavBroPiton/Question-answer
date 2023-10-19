@@ -8,3 +8,4 @@ Virtual User Generator (VUGen), Controller, Load Generator, Analysis.
 HTTP, FTP, Citrix, SAP, Oracle
 ### 5. Какие параметры нагрузки можно устанавливать в LoadRunner?
 Количество пользователей, время выполнения теста, процент ошибок.
+### 6. Какой компонент LoadRunner используется для создания тестовых сценариев?
