@@ -2,3 +2,4 @@
 Инструмент для нагрузочного тестирования
 ### 2. Какие компоненты входят в состав LoadRunner?
 Virtual User Generator (VUGen), Controller, Load Generator, Analysis.
+### 3. Что такое Virtual User (VUser) в терминологии LoadRunner?
