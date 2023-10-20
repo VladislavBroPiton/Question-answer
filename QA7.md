@@ -14,3 +14,4 @@ Virtual User Generator (VUGen)
 Transaction Response Time, Throughput, Error Rate.
 ### 8. Какие компоненты LoadRunner можно использовать для анализа результатов тестирования?
 Analysis
+### 9. Какие типы сценариев поддерживает LoadRunner?
