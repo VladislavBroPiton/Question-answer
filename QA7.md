@@ -12,3 +12,4 @@ HTTP, FTP, Citrix, SAP, Oracle
 Virtual User Generator (VUGen)
 ### 7. Какие графические отчеты предоставляет LoadRunner?
 Transaction Response Time, Throughput, Error Rate.
+### 8. Какие компоненты LoadRunner можно использовать для анализа результатов тестирования?
