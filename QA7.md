@@ -11,3 +11,4 @@ HTTP, FTP, Citrix, SAP, Oracle
 ### 6. Какой компонент LoadRunner используется для создания тестовых сценариев?
 Virtual User Generator (VUGen)
 ### 7. Какие графические отчеты предоставляет LoadRunner?
+Transaction Response Time, Throughput, Error Rate.
