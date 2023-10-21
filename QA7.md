@@ -24,3 +24,4 @@ HTTP/HTTPS
 Controller
 ### 13. Какой компонент LoadRunner отвечает за генерацию виртуальных пользователей?
 Virtual User Generator (VUGen)
+### 14. Какие типы проверок можно реализовать в LoadRunner?
